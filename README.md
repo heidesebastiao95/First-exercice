@@ -1,2 +1,2 @@
-# First exercice
- Java develloping
+# Primeiro Exercicio
+ Soma Sequencial.
